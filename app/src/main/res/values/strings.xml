@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">workoutApp -Java</string>
+    <string name="intro_Title">Lets Find the <font color="#f3c024">Best and Healthy</font> Grocery</string>
+    <string name="intro_Des">Welcome to our world of wholesome delights! Explore natures goodness with our vibrant selection of healthy and delicious fruits</string>
+    <string name="intro_Login">Already has an account? <font color="#f3c024">Sign In</font></string>
+    <string name="intro_Btn">Lets Go</string>
+    <string name="main_search">Search</string>
+    <string name="main_name">Edward</string>
+    <string name="main_greet">Welcome Back</string>
+    <string name="main_category">Daily Monitoring</string>
+    <string name="main_00">00</string>
+    <string name="main_DailyCalo">Daily Calories</string>
+    <string name="main_imageDes">Twist Exercise</string>
+    <string name="main_imageTime">20min - Beginner</string>
+
+</resources>

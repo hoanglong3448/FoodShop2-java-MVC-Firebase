@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855756895601",
+    "project_id": "bachhoacam-9171e",
+    "storage_bucket": "bachhoacam-9171e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855756895601:android:f808ccaedac68c6dacf2d0",
+        "android_client_info": {
+          "package_name": "com.example.workout_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARhHHQT1XMWUUlQFCGWNTK_xRXlGHOaXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
